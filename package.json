@@ -2,7 +2,7 @@
   "name": "todos-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ishubham010/Todo",
+  "homepage": "https://ishubham010.github.io/Todo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
