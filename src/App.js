@@ -62,10 +62,10 @@ function App() {
       <Router>
         <Header title="My Todos List" searchBar={false} />
         <Switch>
-          <Route exact path="/about">
+          <Route exact path="/Todo/about">
             <About />
           </Route>
-          <Route exact path="/" render={() => {
+          <Route exact path="/Todo" render={() => {
             return (
               <>
                 <AddTodo addTodo={addTodo} />
